@@ -31,10 +31,10 @@ firefox_options.add_argument("user-data-dir=C:\\Program Files\\Mozilla Firefox\\
 
 driver=webdriver.Firefox(executable_path=r'E:\\PROJECTS\\JARVIS AI ASSISTANT\\geckodriver-v0.26.0-win64\\geckodriver.exe')
 
-consumer_key="zQbQfJUTNdbXKqE3gMjpaquog"
-consumer_secret="ODYUPPC10o1cPWprXGymEUvZDPERZjacTXypmTtnucbOOOKGeO"
-access_token="1003983286685712384-ifoDZU34daaIZ1Hy4S9XGNQgKRJjVV"
-access_token_secret="t4XrZl9OGAlZrK29wmgZghQGbXYf35lbXxVBdr3WdQsgR"
+consumer_key="YOUR OWN"
+consumer_secret="YOUR OWN"
+access_token="YOUR OWN"
+access_token_secret="YOUR OWN"
 
 engine.setProperty('voice',voices[0].id)  
 
